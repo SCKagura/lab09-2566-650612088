@@ -73,7 +73,11 @@ export default function Home() {
       </div>
 
       {/* //footer section */}
-      <Footer year="2023" fullName="Kong Kanjai" studentId="650612077" />
+      <Footer
+        year="2023"
+        fullName="Boonyawut Buthbooon"
+        studentId="650612088"
+      />
     </div>
   );
 }
